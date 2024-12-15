@@ -27,6 +27,7 @@ Eu sou um desenvolvedor entusiasta apaixonado por tecnologia e inovação. Aqui 
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=gabriel-jry&show_icons=true&theme=radical" alt="GitHub Stats" width="400" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-jry&layout=compact&theme=radical" /></td>
     </tr>
   </table>
 </div>
